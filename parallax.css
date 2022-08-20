@@ -1,0 +1,60 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+.pic1{
+  height: 100vh;
+  width: 100%;
+  background-image: url(C:\Users\dell\Desktop\web development\web development\parallax2\bits campus1.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}
+.pic2{
+  height: 100vh;
+  width: 100%;
+  background-image: url(bits campus 2.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+
+}
+.pic3{
+  height: 100vh;
+  width: 100%;
+  background-image: url(bits campus 3.jpg);
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+
+}
+h1{
+  font-family: fantasy;
+  font-size: 50px;
+  color: #191970;
+  margin: 0px;
+  text-align: center;
+  display: table;
+}
+h2{
+  font-family: fantasy;
+  font-size: 50px;
+  color: #191970;
+  margin: 0px;
+  text-align: center;
+  display: table;
+
+}
+h3{
+  font-family: fantasy;
+  font-size: 50px;
+  color: #191970;
+  margin: 0px;
+  text-align: center;
+  display: table;
+
+}
